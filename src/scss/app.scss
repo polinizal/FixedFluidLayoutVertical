@@ -27,3 +27,15 @@ html {
   font-size: 10rem;
   flex-flow: column;
 }
+
+.container {
+  display: flex;
+}
+
+.toolbar {
+  height: 80px;
+}
+
+.main {
+  flex-grow: 1;
+}
